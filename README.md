@@ -26,6 +26,8 @@
 ---------------------------- 
 
 
+
+
 ### The Most Prefered Python Libraries
 
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=fff"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=fff"> <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=fff"> <img src="https://img.shields.io/badge/-scikitlearn-F7931E?logo=scikit-learn&logoColor=fff"> <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=fff"> <img src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=fff"> <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SymPy-3B5526?logo=SymPy&logoColor=fff"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=fff"> 
