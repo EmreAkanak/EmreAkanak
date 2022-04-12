@@ -28,8 +28,6 @@
 
 ### The Most Prefered Language
 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
-
 
 <p><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
 
