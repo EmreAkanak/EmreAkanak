@@ -47,11 +47,7 @@
 
 ### The Most Prefered Data Base and Analytics Tools
 
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> 
-
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"> 
-
-<img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"> 
 
 ### The Most Prefered BI Tool
 
