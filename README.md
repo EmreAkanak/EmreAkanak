@@ -1,7 +1,7 @@
-### Hi I'm Emre Akanak 👋
+### Hi I'm Emre Akanak 
 
 
-**EmreAkanak/EmreAkanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to My Profile** 
 
 Here are some ideas to get you started:
 
