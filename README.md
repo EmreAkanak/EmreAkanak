@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&show_icons=true&theme=radical)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&show_icons=true&thene=radical)
 
 
 -->
