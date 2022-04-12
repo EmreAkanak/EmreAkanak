@@ -18,7 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats)
+[![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats)
 
 
 ---------------------------- 
