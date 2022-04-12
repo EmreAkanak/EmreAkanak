@@ -63,10 +63,39 @@
 
 
 
+<details open>
+  <summary><strong>Overview</strong></summary>
+  <ol>
+    <li>Cash on hand: $500.00</li>
+    <li>Current invoice: $75.30</li>
+    <li>Due date: 5/6/19</li>
+  </ol>
+</details>
+
+
+
+
+
+<details open>
+  <summary><strong>Overview</strong></summary>
+  <ol>
+    <li>Cash on hand: $500.00</li>
+    <li>Current invoice: $75.30</li>
+    <li>Due date: 5/6/19</li>
+  </ol>
+</details>
 
 
 
 
 
 
+<details open>
+  <summary><strong>Overview</strong></summary>
+  <ol>
+    <li>Cash on hand: $500.00</li>
+    <li>Current invoice: $75.30</li>
+    <li>Due date: 5/6/19</li>
+  </ol>
+</details>
 
