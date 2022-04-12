@@ -4,7 +4,6 @@
 
 
 
-
 ### Hi I'm Emre Akanak 
 
 
