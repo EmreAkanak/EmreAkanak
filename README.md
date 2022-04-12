@@ -38,7 +38,7 @@
 ### The Most Prefered IDEs
 
 
-<img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"> 
+<img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-Colab-F9AB00?logo=Colab&logoColor=fff"> <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"> 
 
 ### The Most Prefered Distributed Version Control System
 
@@ -55,9 +55,7 @@
 
 ### The Most Prefered Supplement Tools
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> 
-
-<img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> 
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> <img src="https://img.shields.io/badge/-GoogleAnalytics-E37400?logo=Google-Analytics&logoColor=fff"> 
 
 --------- 
 
