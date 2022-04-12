@@ -3,16 +3,9 @@
 
 **Welcome to My Profile** 
 
-Here are some ideas to get you started:
+##### I'm a PhD candidate economist and data scientist with strong background in both academy and industry. If you want to know me more you can go throught my CV.
 
-- 🔭 I’m currently working on Advanced Data Science
-- 🌱 I’m currently learning Advanced Modeling
-- 👯 I’m looking to collaborate on Studies
-- 🤔 I’m looking for help with Time Series
-- 💬 Ask me about anything about Data Science
-- 📫 How to reach me: [Twitter- @EmreAkanak](https://twitter.com/EmreAkanak)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Data Science
+
 
 
 
@@ -70,44 +63,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> 
 
 --------- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
