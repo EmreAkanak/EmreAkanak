@@ -57,7 +57,6 @@
 
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> <img src="https://img.shields.io/badge/-GoogleAnalytics-E37400?logo=Google-Analytics&logoColor=fff"> 
 
---------- 
 
 
 
