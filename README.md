@@ -18,7 +18,18 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical) 
 
+
+<details>
+  <summary><strong>Most Used Languages in Projects</strong></summary>
+  <ol>
+    
 [![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats)
+
+  </ol>
+</details>
+
+
+
 
 
 ---------------------------- 
