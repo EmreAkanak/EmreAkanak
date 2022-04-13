@@ -40,7 +40,7 @@
 
 
 <details>
-  <summary><strong>Click to see My Most Prefered Python Libraries</strong></summary>
+  <summary><strong>Click to see My Most Prefered Libraries</strong></summary>
   <ol>
 
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=fff"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=fff"> <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=fff"> <img src="https://img.shields.io/badge/-scikitlearn-F7931E?logo=scikit-learn&logoColor=fff"> <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=fff"> <img src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=fff"> <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SymPy-3B5526?logo=SymPy&logoColor=fff"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=fff"> 
@@ -63,73 +63,54 @@
 </ol>
 </details>
 
-
-
-### The Most Prefered Data Base and Analytics Tools
-
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"> 
-
-
-### The Most Prefered Language
-
-
-<p><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
-
-
-
-### The Most Prefered Distributed Version Control System
-
-
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"> 
-
-
-
-### The Most Prefered BI Tool
-
-<img src="https://img.shields.io/badge/-Tableau-e97627?logo=Tableau&logoColor=fff"> 
-
-### The Most Prefered Supplement Tools
+<details>
+  <summary><strong>Click to See My Most Prefered Supplement Tools</strong></summary>
+  <ol>
 
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> <img src="https://img.shields.io/badge/-GoogleAnalytics-E37400?logo=Google-Analytics&logoColor=fff"> 
 
-
-
-
+</ol>
+</details>
 
 
 <details>
-  <summary><strong>Overview</strong></summary>
+  <summary><strong>Click to See My Most Prefered Data Base and Analytics Tools</strong></summary>
   <ol>
-    <li>Cash on hand: $500.00</li>
-    <li>Current invoice: $75.30</li>
-    <li>Due date: 5/6/19</li>
-  </ol>
+
+
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"> 
+    
+</ol>
+</details>
+
+<details>
+  <summary><strong>Click to See My Most Prefered Language</strong></summary>
+  <ol>
+
+<p><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
+
+</ol>
 </details>
 
 
 
-
-
 <details>
-  <summary><strong>Overview</strong></summary>
+  <summary><strong>Click to See My Most Prefered Distributed Version Control System</strong></summary>
   <ol>
-    <li>Cash on hand: $500.00</li>
-    <li>Current invoice: $75.30</li>
-    <li>Due date: 5/6/19</li>
-  </ol>
+
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"> 
+
+</ol>
 </details>
 
-
-
-
-
-
 <details>
-  <summary><strong>Overview</strong></summary>
+  <summary><strong>Click to See My Most Prefered BI Tool</strong></summary>
   <ol>
-    <li>Cash on hand: $500.00</li>
-    <li>Current invoice: $75.30</li>
-    <li>Due date: 5/6/19</li>
+
+
+<img src="https://img.shields.io/badge/-Tableau-e97627?logo=Tableau&logoColor=fff"> 
+
+
   </ol>
 </details>
 
