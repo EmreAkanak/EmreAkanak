@@ -90,16 +90,6 @@
 </details>
 
 
-
-<details>
-  <summary><strong>Click to See My Most Prefered Distributed Version Control System</strong></summary>
-  <ol>
-
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"> 
-
-</ol>
-</details>
-
 <details>
   <summary><strong>Click to See My Most Prefered BI Tool</strong></summary>
   <ol>
@@ -110,4 +100,17 @@
 
   </ol>
 </details>
+
+
+
+
+<details>
+  <summary><strong>Click to See My Most Prefered Distributed Version Control System</strong></summary>
+  <ol>
+
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"> 
+
+</ol>
+</details>
+
 
