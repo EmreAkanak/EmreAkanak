@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary><strong>Most Used Languages in My Projects</strong></summary>
+  <summary><strong>Most Used Languages in My GitHub Projects</strong></summary>
   <ol>
     
 [![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats)
