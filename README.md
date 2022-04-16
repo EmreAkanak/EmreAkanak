@@ -10,7 +10,9 @@
 
 **Welcome to My Profile** 
 
-##### I'm a Ph.D. candidate economist and data scientist with a strong background in both academy and industry. If you want to know me more, you can go throught my CV.
+#### I'm a Ph.D. candidate economist and data scientist with a strong background in both academy and industry.  
+
+If you want to know me more, you can go throught my CV. 
 
 
 
