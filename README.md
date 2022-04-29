@@ -14,7 +14,7 @@
 
 If you want to know me more, you can go throught my CV. Related wehsite, etc.
 
-There will be information
+There will be information. Related icons will be added
 
 
 
