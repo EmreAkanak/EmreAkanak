@@ -10,15 +10,15 @@
 
 **Welcome to My Profile** 
 
-#### I'm a Ph.D. candidate economist and data scientist with a strong background in both academy and industry.  
+#### I'm a Ph.D. candidate economist, data scientist and quant with a strong scientific bckground have experience in both academy and industry.  
 
-If you want to know me more, you can go throught my CV. Related wehsite, etc.
+If you want to know more about me, you can download my CV and visit my personal website.
 
-There will be information. Related icons will be added new files. Others also, and
+I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
 
-<img align="right" alt="Coding" width="400" src="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>"
+
 
 
 
@@ -81,7 +81,7 @@ There will be information. Related icons will be added new files. Others also, a
   <summary><strong>Click to See My Most Prefered Language</strong></summary>
   <ol>
 
-<p><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
+<p>Check out <a href="https://www.python.org/">freeCodeCamp</a>.</p><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
 
 </ol>
 </details>
