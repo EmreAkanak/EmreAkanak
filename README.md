@@ -17,7 +17,13 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-<whatsapp-button phone="123456" dialcode="44" text="hello!" label="Start Chat"></whatsapp-button>
+<script type="module">
+  import '@open-wa/whatsapp-button/whatsapp-button.js';
+</script>
+
+<script src="https://unpkg.com/@open-wa/whatsapp-button?module" type="module"></script>
+
+
 
 
 
