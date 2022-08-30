@@ -44,9 +44,6 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 </details>
 
 
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/feturengine/grunt?color=blue&label=FeaturEngine&logo=fe&logoColor=white">
-
-
 <details>
   <summary><strong>Click to See My Most Prefered IDEs</strong></summary>
   <ol>
