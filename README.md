@@ -20,20 +20,23 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 <p><a target="_blank" href="https://www.linkedin.com/in/emreakanak/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<a target="_blank" href="https://public.tableau.com/app/profile/emreakanak">
+  <img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+<a target="_blank" href="https://www.instagram.com/emreakanak/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="https://www.facebook.com/emre.akanak">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+<a target="_blank" href="https://twitter.com/EmreAkanak">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a></p> 
 
 
