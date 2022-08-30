@@ -44,13 +44,13 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 
 
 
+-
 
 
 
 
 
-
-<p><a>[![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)</a></p> 
+[![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)
 
 
 
