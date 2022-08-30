@@ -17,8 +17,6 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-***************************** 
-
 
 
 
@@ -49,20 +47,15 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 
 
 
---------------------------------------
+
+
+
+<p>[![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)</p> 
 
 
 
 
 
-[![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)
-
-
-
-
-
----------------------------- 
-****************************
 
 
 
