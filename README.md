@@ -17,9 +17,9 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-![wa](https://user-images.githubusercontent.com/53918883/187558528-e404729d-20b9-4bdf-b945-7c4845ffdc22.png)
+![wa](https://user-images.githubusercontent.com/53918883/187558528-e404729d-20b9-4bdf-b945-7c4845ffdc22.png)(https://proceedings.mlr.press/v9/dekel10a/dekel10a.pdf)
 
-<a href="https://www.qries.com/"><img alt="Qries" src="[https://www.qries.com/images/banner_logo.png](https://user-images.githubusercontent.com/53918883/187558528-e404729d-20b9-4bdf-b945-7c4845ffdc22.png)>
+
 
 
 
