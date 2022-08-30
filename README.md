@@ -61,8 +61,8 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered Supplement Tools</strong></summary>
   <ol>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> <img src="https://img.shields.io/badge/-GoogleAnalytics-E37400?logo=Google-Analytics&logoColor=fff"> 
-
+<p><a href="https://html5.org" target="_blank"><img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <a href="https://www.microsoft.com/en-ww/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/-MicrosoftExcel-217346?logo=MicrosoftExcel&logoColor=fff"> <a href="https://marketingplatform.google.com/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-GoogleAnalytics-E37400?logo=Google-Analytics&logoColor=fff"></a></p> 
+  
 </ol>
 </details>
 
