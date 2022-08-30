@@ -17,7 +17,7 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-
+<ion-icon name="logo-whatsapp"></ion-icon>
 
 
 
