@@ -39,6 +39,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=fff"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=fff"> <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=fff"> <img src="https://img.shields.io/badge/-scikitlearn-F7931E?logo=scikit-learn&logoColor=fff"> <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=fff"> <img src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=fff"> <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=fff"> <img src="https://img.shields.io/badge/-SymPy-3B5526?logo=SymPy&logoColor=fff"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=fff"> 
 
+    
 
   </ol>
 </details>
@@ -48,7 +49,9 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered IDEs</strong></summary>
   <ol>
 
-<img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-Colab-F9AB00?logo=Colab&logoColor=fff"> <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"> 
+<p><a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?logo=Colab&logoColor=fff"> <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <a href="https://www.anaconda.com" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <a href="https://www.spyder-ide.org" target="_blank"><img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"> 
+
+  
 
 
 </ol>
