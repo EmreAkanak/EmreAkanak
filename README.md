@@ -17,9 +17,9 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-![wa](https://user-images.githubusercontent.com/53918883/187558528-e404729d-20b9-4bdf-b945-7c4845ffdc22.png)(https://proceedings.mlr.press/v9/dekel10a/dekel10a.pdf)
-
-
+<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
