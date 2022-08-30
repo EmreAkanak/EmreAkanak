@@ -17,7 +17,7 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<p><a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
@@ -34,7 +34,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a></p> 
 
 
 
