@@ -18,6 +18,8 @@ There will be information. Related icons will be added new files. Others also, a
 
 
 
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>">
+
 
 
 [![Top Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)
