@@ -81,7 +81,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered Language</strong></summary>
   <ol>
 
-<p><a href="https://www.python.org" target="_blank"></a><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></p>
+<p><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></p></a>
 
 </ol>
 </details>
