@@ -17,23 +17,7 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
-<body>
-  <!-- solid style -->
-  <i class="fas fa-user"></i>
-
-  <!-- regular style -->
-  <i class="far fa-user"></i>
-
-  <!-- light style -->
-  <i class="fal fa-user"></i>
-
-  <!-- duotone style -->
-  <i class="fad fa-user"></i>
-
-  <!--brand icon-->
-  <i class="fab fa-github-square"></i>
-</body>
-
+<whatsapp-button phone="123456" dialcode="44" text="hello!" label="Start Chat"></whatsapp-button>
 
 
 
