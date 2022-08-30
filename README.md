@@ -72,7 +72,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <ol>
 
 
-<p><a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"></a></p> <p><a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"></a></p> <p><a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"></a></p> 
+<p><a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"></a> <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"></a></p> 
     
     
     
