@@ -49,10 +49,9 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered IDEs</strong></summary>
   <ol>
 
-<p><a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?logo=Colab&logoColor=fff"> <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <a href="https://www.anaconda.com" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <a href="https://www.spyder-ide.org" target="_blank"><img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"> 
+<p><a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37636?logo=Jupyter&logoColor=fff"> <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?logo=Colab&logoColor=fff"> <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=fff"> <a href="https://www.anaconda.com" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Spyder&logoColor=fff"> <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff"> <a href="https://www.spyder-ide.org" target="_blank"><img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder&logoColor=fff"></a></p>  
 
   
-
 
 </ol>
 </details>
