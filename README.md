@@ -17,6 +17,11 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
 
 
+***************************** 
+
+
+
+
 <p><a target="_blank" href="https://www.linkedin.com/in/emreakanak/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
