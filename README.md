@@ -72,7 +72,9 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <ol>
 
 
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"> 
+<p><a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff"></a></p> <p><a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"></a></p> <p><a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=fff"></a></p> 
+    
+    
     
 </ol>
 </details>
@@ -81,7 +83,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered Language</strong></summary>
   <ol>
 
-<p><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></p></a>
+<p><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"></a></p>
 
 </ol>
 </details>
@@ -92,8 +94,9 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <ol>
 
 
-<img src="https://img.shields.io/badge/-Tableau-e97627?logo=Tableau&logoColor=fff"> 
+<p><a href="https://www.tableau.com" target="_blank"><img src="https://img.shields.io/badge/-Tableau-e97627?logo=Tableau&logoColor=fff"></a></p>  
 
+    
 
   </ol>
 </details>
@@ -105,7 +108,7 @@ I'm curently working on **advanced feature engineering** for ML and developing u
   <summary><strong>Click to See My Most Prefered Distributed Version Control System</strong></summary>
   <ol>
 
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"> 
+<p><a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"></a></p> 
 
 </ol>
 </details>
