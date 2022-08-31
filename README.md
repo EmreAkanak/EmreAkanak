@@ -15,6 +15,26 @@ If you want to know more about me, you can download my CV and visit my personal 
 I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc.
 
 
+My research areas; 
+
+- KDD: Knowledge Discovery in Data
+- Modeling 
+- Supervised & Unsupervised Learning
+- ML Modeling & DL ANN Architechture
+- Anomaly Detection 
+- Advanced Feature Engineering
+- Scientific Testing
+- VST: Variance Stabilization Transformation
+- Time Series Analytics & Prediction 
+
+
+I provide consultancy and services on; 
+
+* ss
+* sas
+* ss
+
+
 
 
 
