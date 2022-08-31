@@ -8,7 +8,7 @@
 ### Emre Akanak, PhDc
 
 
-#### I'm a Ph.D. candidate economist, data scientist and quant with a strong scientific background, endless scientific curiosity, deep communication and anlytics skills and polymath identity, and have experience in both academic & scientific research and industry. 
+#### I'm a Ph.D. candidate economist, data scientist and quant with a strong technical background, endless scientific curiosity, deep communication and anlytics skills and polymath identity, and have experience in both academic & scientific research and industry. 
 
 If you want to know more about me, you can download my CV and visit my personal website.
 
