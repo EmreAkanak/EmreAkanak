@@ -8,16 +8,15 @@
 ### Emre Akanak, PhDc
 
 
-#### I'm a Ph.D. candidate economist, data scientist and quant with a strong technical background, endless scientific curiosity, deep communication and anlytics skills and polymath identity, and have experience in both academic & scientific research and industry. 
+#### I'm a Ph.D. candidate economist, data scientist and quant with strong technical background, endless scientific curiosity, intense communication and anlytics skills. Experienced in both academic & scientific researches and active in the industry. As a polymath I believe continious advancement.
 
-If you want to know more about me, you can download my CV and visit my personal website.
 
 I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. My main research areas are included but not limited to; **KDD**: Knowledge Discovery in Data, **Modeling**, Supervised & Unsupervised Learning, ML Modeling & DL ANN Architechture, **Advanced Feature Engineering & Feature Selection**, Scientific Testing, **VST**: Variance Stabilization Transformation, **Time Series** Analytics & Prediction, **OSINT** Analytics & Social Engineering, **Anomaly Detection**, Desity Analysis, **Network Analytics**, Q2Q, Ensamble Methods, **Personalization & Recommender Systems**, etc. 
 
 
+I'm highly interested in applying advanced quantitative techniques and scientific methodologies to busienss cases and using mathematics, statistics, econometrics and data sciene to develop unique, creative and innovative solutions for business problems. Applying scientific studies and theory to real life cases.
 
-I'm highly interested in applying advanced quantitative techniques and methodologies to busienss cases and use mathematics, statistics, econometrics and develop unique, creative and innovative solutions for business problems.
-
+If you want to know more about me, you can download my CV and visit my personal website.
 
 
 ---- My contcact details ----
