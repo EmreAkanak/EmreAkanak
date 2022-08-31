@@ -18,7 +18,7 @@ I'm curently working on **advanced feature engineering for ML** and **developing
 
 
 
----- You can contact me
+---- You can contact me ----
 
 
 
