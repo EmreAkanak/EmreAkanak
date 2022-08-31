@@ -26,8 +26,11 @@
 <a target="_blank" href="https://medium.com/@emreakanak">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
-    <a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+    <a target="_blank" href="https://open.spotify.com/user/emreakanak">
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+ </a>
+ <a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
+ <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>  
