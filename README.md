@@ -5,16 +5,18 @@
 
 
 
-### Hi, I'm Emre Akanak 
+### Emre Akanak, PhDc
 
 
-**Welcome to My Profile** 
-
-#### I'm a Ph.D. candidate economist, data scientist and quant with a strong scientific bckground have experience in both academy and industry.  
+#### I'm a Ph.D. candidate economist, data scientist and quant with a strong scientific background, endless scientific curiosity, deep communication and anlytics skills and polymath identity, and have experience in both academic & scientific research and industry. 
 
 If you want to know more about me, you can download my CV and visit my personal website.
 
-I'm curently working on **advanced feature engineering** for ML and developing unique techiques.
+I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on AVST: Advanced Vriance Stabilization Transformation techniques and applied testing techiques including parametric and non parametric tests, such as Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. 
+
+
+
+
 
 
 
