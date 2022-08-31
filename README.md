@@ -25,7 +25,7 @@
  </a>
 </a></p> 
 
---- 
+------ 
 
 #### I'm a Ph.D. candidate economist, data scientist and quant with strong technical background, endless scientific curiosity, intense communication and anlytics skills. Experienced in both academic & scientific researches and active in the industry. As a polymath I believe continious advancement.
 
