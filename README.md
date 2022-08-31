@@ -2,8 +2,27 @@
 
 
 
-
 ### Emre Akanak, PhDc
+
+<p><a target="_blank" href="https://www.linkedin.com/in/emreakanak/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a target="_blank" href="https://twitter.com/EmreAkanak">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<a target="_blank" href="https://public.tableau.com/app/profile/emreakanak">
+  <img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
+</a>
+ <a target="_blank" href="https://sites.google.com/view/emreakanak/portfolio?authuser=0">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+  </a>
+    <a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
+  <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />  
+ </a>
+</a></p> 
+
 
 
 #### I'm a Ph.D. candidate economist, data scientist and quant with strong technical background, endless scientific curiosity, intense communication and anlytics skills. Experienced in both academic & scientific researches and active in the industry. As a polymath I believe continious advancement.
