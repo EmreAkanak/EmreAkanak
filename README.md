@@ -29,6 +29,9 @@
     <a target="_blank" href="https://open.spotify.com/user/emreakanak">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
  </a>
+ <a target="_blank" href="https://www.instagram.com/emreakanak/">
+ <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+ </a>
  <a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
