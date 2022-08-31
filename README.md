@@ -47,8 +47,9 @@ I'm curently working on **advanced feature engineering for ML** and **developing
 
 I'm highly interested in applying advanced quantitative techniques and scientific methodologies to busienss cases and using mathematics, statistics, econometrics and data sciene to develop unique, creative and innovative solutions for business problems. Applying scientific studies and theory to real life cases.
 
-If you want to know more about me, you can download my <a href="https://drive.google.com/file/d/1vvIwqa5qqXGeklj6Lp08_Fj2FTXRJObg/view?usp=sharing">CV</a> and <a href="https://sites.google.com/view/emreakanak">my personal website.</a>
+If you are interested to know more about me please check my <a href="https://drive.google.com/file/d/1vvIwqa5qqXGeklj6Lp08_Fj2FTXRJObg/view?usp=sharing">CV</a> and visit <a href="https://sites.google.com/view/emreakanak">my personal website.</a>
 
+Thanks & regards
 
 ----------- 
 
