@@ -12,7 +12,7 @@
 
 If you want to know more about me, you can download my CV and visit my personal website.
 
-I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. My main research areas are included but not limited to; **KDD**: Knowledge Discovery in Data, Modeling, Supervised & Unsupervised Learning, ML Modeling & DL ANN Architechture, Anomaly Detection, Advanced Feature Engineering & Feature Selection, Scientific Testing, VST: Variance Stabilization Transformation, Time Series Analytics & Prediction, OSINT Analytics & Social Engineering, Network Analytics, Personalization & Recommender Systems, etc. 
+I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. My main research areas are included but not limited to; **KDD**: Knowledge Discovery in Data, **Modeling**, Supervised & Unsupervised Learning, ML Modeling & DL ANN Architechture, **Advanced Feature Engineering & Feature Selection**, Scientific Testing, **VST**: Variance Stabilization Transformation, **Time Series** Analytics & Prediction, **OSINT** Analytics & Social Engineering, **Anomaly Detection**, Desity Analysis, **Network Analytics**, Q2Q, Ensamble Methods, **Personalization & Recommender Systems**, etc. 
 
 
 
@@ -20,28 +20,7 @@ I'm highly interested in applying advanced quantitative techniques and methodolo
 
 
 
-I have project experiences on; 
-
-- Data Product Development
-- Client & Customer Profiling, Analytics 
-- KPI & OKR Analytics
-- DDM: Data Driven Management
-- Financial Modeling
-- Asset Prices Predicion 
-- Recommender Engine Development
-- Time Series Prediction 
-- Fraud Analytics & Anomaly Detection 
-- Market Segmentation 
-- Advanced Business Intelligence Applications
-- Data Driven M&A Analytics for Corporations 
-- Asset & Price Evaluation
-
-
-
-
-
-
----- My contcact details below ----
+---- My contcact details ----
 
 
 
