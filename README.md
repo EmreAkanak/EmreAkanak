@@ -12,20 +12,27 @@
 
 If you want to know more about me, you can download my CV and visit my personal website.
 
-I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on AVST: Advanced Vriance Stabilization Transformation techniques and applied testing techiques including parametric and non parametric tests, such as Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. 
+I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc.
 
 
 
 
 
----- You can contact me ----
+
+
+---- My contcact details below ----
 
 
 
 <p><a target="_blank" href="https://www.linkedin.com/in/emreakanak/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
+  <a target="_blank" href="https://twitter.com/EmreAkanak">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  </a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<a target="_blank" href="https://sites.google.com/view/emreakanak/portfolio?authuser=0">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://public.tableau.com/app/profile/emreakanak">
@@ -40,8 +47,7 @@ I'm curently working on **advanced feature engineering for ML** and **developing
 <a target="_blank" href="https://www.facebook.com/emre.akanak">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-<a target="_blank" href="https://twitter.com/EmreAkanak">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
 </a></p> 
 
 
