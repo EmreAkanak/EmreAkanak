@@ -12,26 +12,12 @@
 
 If you want to know more about me, you can download my CV and visit my personal website.
 
-I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc.
+I'm curently working on **advanced feature engineering for ML** and **developing unique techiques**, I have very strong background and lecturing experience on **AVST: Advanced Vriance Stabilization Transformation techniques** and **applied testing techiques** very experienced on building and applying scientific experiences, parametric and non parametric tests, such as like Hypothesis Testing, A/B Testing, Chi2 Testing, ANOVA, ANCOVA, Mann - Whitney U Testing, Anderson - Darling Testing, Kolmogorov - Smirnov Testing, Uit - Root Testing, Durbing - Whatson Testing, etc. My main research areas are included but not limited to; **KDD**: Knowledge Discovery in Data, Modeling, Supervised & Unsupervised Learning, ML Modeling & DL ANN Architechture, Anomaly Detection, Advanced Feature Engineering & Feature Selection, Scientific Testing, VST: Variance Stabilization Transformation, Time Series Analytics & Prediction, OSINT Analytics & Social Engineering, Network Analytics, Personalization & Recommender Systems, etc. 
 
 
-I'm highly interested in applying advanced quantitative techniques and methodologies to busienss cases and use mathematics, statistics, econometrics and develop unique, creative solutions for business problems.
 
+I'm highly interested in applying advanced quantitative techniques and methodologies to busienss cases and use mathematics, statistics, econometrics and develop unique, creative and innovative solutions for business problems.
 
-My main research areas are; 
-
-- KDD: Knowledge Discovery in Data
-- Modeling 
-- Supervised & Unsupervised Learning
-- ML Modeling & DL ANN Architechture
-- Anomaly Detection 
-- Advanced Feature Engineering & Feature Selection
-- Scientific Testing
-- VST: Variance Stabilization Transformation
-- Time Series Analytics & Prediction 
-- OSINT Analytics & Social Engineering 
-- Network Analytics
-- Personalization & Recommender Systems
 
 
 I have project experiences on; 
