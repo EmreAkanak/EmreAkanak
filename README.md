@@ -7,7 +7,7 @@
 
 
 <p><a target="_blank" href="https://www.linkedin.com/in/emreakanak/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
   <a target="_blank" href="https://twitter.com/EmreAkanak">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
@@ -15,13 +15,22 @@
   <img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
 </a>
  <a target="_blank" href="https://sites.google.com/view/emreakanak/portfolio?authuser=0">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
   </a>
+  <a target="_blank" href="https://akanak.blogspot.com">
+  <img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg"/>
+</a>
+<a target="_blank" href="https://atilim.academia.edu/Akanak">
+  <img align="left" alt="Academia" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/>
+</a>
+<a target="_blank" href="https://medium.com/@emreakanak">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
     <a target="_blank" href="mailto:dr.emre.akanak@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=972587270983">
-  <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />  
+  <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>  
  </a>
 </a></p> 
 
