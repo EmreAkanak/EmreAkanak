@@ -47,7 +47,7 @@ I'm curently working on **advanced feature engineering for ML** and **developing
 
 I'm highly interested in applying advanced quantitative techniques and scientific methodologies to busienss cases and using mathematics, statistics, econometrics and data sciene to develop unique, creative and innovative solutions for business problems. Applying scientific studies and theory to real life cases.
 
-If you want to know more about me, you can download my CV and visit my personal website.
+If you want to know more about me, you can download my CV(https://drive.google.com/file/d/1vvIwqa5qqXGeklj6Lp08_Fj2FTXRJObg/view?usp=sharing) and visit my personal website.
 
 
 ----------- 
