@@ -3,8 +3,6 @@
 
 
 
-
-
 ### Emre Akanak, PhDc
 
 
