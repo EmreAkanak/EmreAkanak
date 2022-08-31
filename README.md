@@ -38,10 +38,7 @@ I'm highly interested in applying advanced quantitative techniques and scientifi
 If you want to know more about me, you can download my CV and visit my personal website.
 
 
-Statistcis -------
----------
-
-
+----------- 
 
 
 
