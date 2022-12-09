@@ -20,7 +20,7 @@
   <a target="_blank" href="https://akanak.blogspot.com">
   <img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg"/>
 </a>
-<a target="_blank" href="https://atilim.academia.edu/Akanak">
+<a target="_blank" href="https://tedu.academia.edu/EmreAKANAK">
   <img align="left" alt="Academia" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg"/>
 </a>
 <a target="_blank" href="https://medium.com/@emreakanak">
