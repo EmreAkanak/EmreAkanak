@@ -63,6 +63,9 @@ Thanks & regards
 
 
 
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
+
+
 
 
 [![Top Languges](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
