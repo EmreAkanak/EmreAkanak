@@ -62,7 +62,7 @@ Thanks & regards
 ----------- 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreakanak&hide=contribs,prs)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asdsda)](https://github.com/asdsda/github-readme-stats)
 
 --------- 
 -------
