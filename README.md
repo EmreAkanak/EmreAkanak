@@ -72,7 +72,7 @@ Thanks & regards
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)
 
 
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
 
 
 --------- 
