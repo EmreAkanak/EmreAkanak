@@ -62,21 +62,7 @@ Thanks & regards
 ----------- 
 
 
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
-
-
-
-
-[![Top Languges](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
-
-/top-langs/?username=EmreAkanak&langs_count=8)](https://github.com/EmreAkanak/github-readme-stats) 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&thene=radical)
-
-
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmreAkanak&hide=contribs,prs)
 
 --------- 
 -------
